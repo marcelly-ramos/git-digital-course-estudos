@@ -1,5 +1,5 @@
 # Git Digital: Estudos/Versionamento
-Repositório criado apenas para uso educacional
+Repositório criado apenas para uso didatico.
 
 ## Apenas testando as mudanças 
 
