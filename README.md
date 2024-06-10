@@ -1,4 +1,4 @@
 # Git Digital: Estudos/Versionamento
-Repositório criado apenas para uso didatico.
 
-## Apenas testando as mudanças 
+## Salvando alterações no Git
+* comando git push
